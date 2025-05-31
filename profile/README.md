@@ -30,7 +30,7 @@
 
 | Screenshot | Caption |
 |------------|---------|
-| ![Main window](https://multimc.org/static/images/screenshots/main_window.png) | Clean, multi-instance dashboard |
+| ![Main window]([https://multimc.org/static/images/screenshots/main_window.png](https://multimc.org/images/screenshots/main.png)) | Clean, multi-instance dashboard |
 | ![Mod loader list](https://multimc.org/static/images/screenshots/loader_mods.png) | Per-instance mod control |
 | ![Instance settings](https://multimc.org/static/images/screenshots/instance_settings.png) | Fine-grained Java & memory tuning |
 | ![Console log](https://multimc.org/static/images/screenshots/console.png) | Color-coded real-time logs |
