@@ -83,10 +83,10 @@ Airgapped gameplay capability
 
 | Screenshot | Caption |
 |------------|---------|
-| ![Main window](https://multimc.org/images/screenshots/main.png) | Clean, multi-instance dashboard |
-| ![Mod loader list](https://multimc.org/images/screenshots/editmods.png) | Per-instance mod control |
-| ![Instance settings](https://multimc.org/images/screenshots/version.png) | Fine-grained Java & memory tuning |
-| ![Console log](https://multimc.org/images/screenshots/console.png) | Color-coded real-time logs |
+| (https://multimc.org/images/screenshots/main.png) | Clean, multi-instance dashboard |
+| (https://multimc.org/images/screenshots/editmods.png) | Per-instance mod control |
+| (https://multimc.org/images/screenshots/version.png) | Fine-grained Java & memory tuning |
+| (https://multimc.org/images/screenshots/console.png) | Color-coded real-time logs |
 
 
 🔧 System Requirements
